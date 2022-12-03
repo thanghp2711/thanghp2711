@@ -6,5 +6,5 @@
 
 - Note datn:  Code từ đồ án III (origin): datn
               Code đang sửa: project III
-              Code test các module: recode
+              Code test các modules: recode
 
